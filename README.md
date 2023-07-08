@@ -1,1 +1,1 @@
-<code style="color : green">text</code>
+<font color="red">Teks Berwarna Merah</font>
