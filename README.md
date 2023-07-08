@@ -1,1 +1,1 @@
-<mark style="background-color: yellow;">Highlighted text</mark>
+<span style="background-color: yellow;">Teks yang disorot</span>
