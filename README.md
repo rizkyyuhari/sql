@@ -1,1 +1,2 @@
-<span style="background-color: yellow;">Teks yang disorot</span>
+
+<code style= "color : aqua">testo </color>
