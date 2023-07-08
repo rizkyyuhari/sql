@@ -1,3 +1,1 @@
-
-
-<mark style="background-color:"yellow";>highlight</mark>
+<mark style="background-color: yellow;">Highlighted text</mark>
